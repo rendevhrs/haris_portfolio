@@ -114,16 +114,16 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[80%]  w-full object-cover md:h-[80%] md:m-auto sm:m-0 rounded-full"
-              src='./src/assets/h1.jpg'
+              src="/src/assets/h3.jpg"
               // src={mine}
-              alt="mine"
+              alt="me"
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
                 <img
                   className=" w-[130px] md:w-[70px] circle-text"
-                  src="./src/assets/circle.png"
-                  alt=""
+                  src="/src/assets/circle.png"
+                  alt="acc"
                 />
                 <FaPlay
                   className=" text-white absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]"
