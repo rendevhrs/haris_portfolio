@@ -114,7 +114,7 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[80%]  w-full object-cover md:h-[80%] md:m-auto sm:m-0 rounded-full"
-              src="harisnf/src/assets/h3.jpg"
+              src="/src/assets/h3.jpg"
               // src={mine}
               alt="me"
             />
@@ -122,7 +122,7 @@ const Hero = () => {
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
                 <img
                   className=" w-[130px] md:w-[70px] circle-text"
-                  src="harisnf/src/assets/circle.png"
+                  src="/src/assets/circle.png"
                   alt="acc"
                 />
                 <FaPlay
