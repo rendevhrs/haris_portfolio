@@ -18,7 +18,7 @@ const Hero = () => {
           <div className="info w-fit flex flex-col items-start justify-center gap-3 sm:gap-2">
             <h2
               data-aos="fade-up"
-              className=" text-5xl font-bold sm:text-[2rem]"
+              className="text-5xl font-bold sm:text-[2rem]"
             >
               Hello, I'm Haris NF
             </h2>
@@ -113,14 +113,14 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[80%]  w-full object-cover md:h-[80%] md:m-auto sm:m-0 rounded-full"
-              src="/src/assets/h3.jpg"
+              src="/images/h3.jpg"
               alt="me"
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
                 <img
                   className=" w-[130px] md:w-[70px] circle-text"
-                  src="/src/assets/circle.png"
+                  src="/images/circle.png"
                   alt="acc"
                 />
                 <FaPlay
