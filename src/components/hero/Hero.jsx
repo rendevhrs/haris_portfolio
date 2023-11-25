@@ -10,7 +10,6 @@ import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Resume_Haris_NF.pdf";
 
-
 const Hero = () => {
   return (
     <div id="home" className={` bg-gradient-to-r from-violet-200 to-blue-200 `}>
@@ -115,7 +114,6 @@ const Hero = () => {
             data-aos="fade-up"
               className=" h-[80%]  w-full object-cover md:h-[80%] md:m-auto sm:m-0 rounded-full"
               src="/src/assets/h3.jpg"
-              // src={mine}
               alt="me"
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
