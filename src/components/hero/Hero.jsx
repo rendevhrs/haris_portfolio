@@ -10,7 +10,7 @@ import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Resume_Haris_NF.pdf";
 import mainImage from "/src/assets/h3.jpg"
-import circleImage from "/src/assets/circle2.png"
+import circleImage from "/src/assets/circle.png"
 
 
 const Hero = () => {
