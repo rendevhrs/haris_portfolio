@@ -9,6 +9,9 @@ import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Resume_Haris_NF.pdf";
+import mainImage from "/src/assets/h3.jpg"
+import circleImage from "/src/assets/circle2.png"
+
 
 const Hero = () => {
   return (
@@ -113,14 +116,14 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[80%]  w-full object-cover md:h-[80%] md:m-auto sm:m-0 rounded-full"
-              src="/images/h3.jpg"
+              src={mainImage}
               alt="me"
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
               <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
                 <img
                   className=" w-[130px] md:w-[70px] circle-text"
-                  src="/images/circle.png"
+                  src={circleImage}
                   alt="acc"
                 />
                 <FaPlay
