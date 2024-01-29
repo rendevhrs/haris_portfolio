@@ -44,14 +44,15 @@ const Resume = () => {
                   Feb 2022 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  - Identifying and analyzing business requirements and formulating appropriate solutions. <br />
-                  - Designing technical plans, including system architecture, user interfaces, and integration with other systems. <br />
+                  - Identifying and analyzing business requirements and formulating appropriate solutions.<br />
+                  - Designing technical plans, including system architecture, user interfaces, and integration with other systems.<br />
                   - Collaborating with the development team, ensuring a clear understanding of the application flow, and
-                  overseeing progress. <br />
+                  overseeing progress.<br />
                   - Developing test scenarios, overseeing application testing, identifying application bugs, and ensuring
-                  smooth functionality. <br />
-                  - Provide training to users on the use of GudangKripto website and mobile app. <br />
-                  - Handling post-implementation issues and enhancing systems according to needs. <br />
+                  smooth functionality.<br />
+                  - Provide training to users on the use of GudangKripto website and mobile app.<br />
+                  - Handling post-implementation issues and enhancing systems according to needs.<br />
+                  - Create application flow, with accurate calculations (Such as transaction calculations, crypto asset prices, crypto asset pairings, and total balances held).<br />
                   - Frequently used tools include Jira, Trello, Gmail, Excel, Word, Drawio, etc. 
                 </p>
               </div>
@@ -83,19 +84,19 @@ const Resume = () => {
                   GudangKripto
                 </span>
                 <span className=" text-[.9rem] font-semibold text-violet-500 sm:text-base">
-                  Feb 2022 - Present
+                  Feb 2022 - Jan 2024 (2 Years)
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  - Conduct comprehensive quality testing on the GudangKripto application. <br />
+                  - Conduct comprehensive quality testing on the GudangKripto application.<br />
                   - Develop a comprehensive testing plan, test cases, and test scripts to ensure extensive coverage of
-                  quality evaluation. <br />
+                  quality evaluation.<br />
                   - Identify and document bugs or discrepancies in the GudangKripto application and report findings to
-                  the relevant team. <br />
-                  - Collaborate with developers, designers, and product managers to provide clear explanations of the identified issues. <br />
-                  - Analyze testing processes and methodologies, seeking opportunities for refinement and efficiency enhancement. <br />
+                  the relevant team.<br />
+                  - Collaborate with developers, designers, and product managers to provide clear explanations of the identified issues.<br />
+                  - Analyze testing processes and methodologies, seeking opportunities for refinement and efficiency enhancement.<br />
                   - Perform regular regression testing to ensure that software updates, enhancements, or modifications
-                  do not adversely affect existing functionality. <br />
-                  - Ensure that products or services adhere to established quality standards, industry best practices, and regulatory requirements. <br />
+                  do not adversely affect existing functionality.<br />
+                  - Ensure that products or services adhere to established quality standards, industry best practices, and regulatory requirements.<br />
                 </p>
               </div>
             </div>

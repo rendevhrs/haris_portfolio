@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn, FaMedium } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Resume_Haris_NF.pdf";
+import resumePDF from "../../assets/CVHarisNF.pdf";
 import mainImage from "/src/assets/h3.jpg"
 import circleImage from "/src/assets/circle.png"
 
