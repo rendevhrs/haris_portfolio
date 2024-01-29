@@ -46,7 +46,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              What sets me apart is my unwavering mindset to constantly evolve. I have a desire to keep learning, constantly evolving to embrace change. I am adept at making well-considered decisions and approach problem-solving with a very positive outlook. My talent for creative thinking allows me to cultivate new ideas through a deliberate thought process.
+              What sets me apart is my unwavering mindset to constantly evolve. I have a desire to keep learning, constantly evolving to embrace change. I am adept at making well-considered decisions and approach problem solving with a very positive outlook. My talent for creative thinking allows me to cultivate new ideas through my way of thinking.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
