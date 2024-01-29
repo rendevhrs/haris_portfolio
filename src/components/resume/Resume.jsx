@@ -41,7 +41,7 @@ const Resume = () => {
                   GudangKripto
                 </span>
                 <span className=" text-[.9rem] font-semibold text-violet-500 sm:text-base">
-                  Feb 2022 - Present
+                  Feb 2022 - Current
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   - Identifying and analyzing business requirements and formulating appropriate solutions.<br />
